@@ -11,7 +11,17 @@ This repository comes with the set of important information for the poster prese
 We kindly ask scientific works and studies that make use of the source code to cite it in their associated publications. Similarly, we ask open-source and closed-source works that make use of the source code to warn us about this use. You can cite our work using the following BibTeX entry:
 
 ```
-
+@conference{https://doi.org/10.13140/rg.2.2.16086.88649,
+  doi = {10.13140/RG.2.2.16086.88649},
+  url = {http://rgdoi.net/10.13140/RG.2.2.16086.88649},
+  author = {Calisto,  Francisco Maria},
+  language = {en},
+  title = {Medical Imaging Multimodality Annotating Framework},
+  booktitle = {PhD Open Days 2020},
+  publisher = {ResearchGate},
+  year = {2020},
+  address = {Instituto Superior T\'{e}cnico},
+}
 ```
 
 ## About
